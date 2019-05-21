@@ -34,9 +34,13 @@ Low error correction will help in having maximum amount of data
 
 ## Max data as per version using "L" i.e, low error correction level:
 Version 2 : 32 characters
+
 Version 3 : 55 characters
+
 Version 4 : 80 characters
+
 Version 5 : 108 characters
+
 Version 6 : 136 characters
 
 A QR code encodes a string of text. The QR code standard has four modes for encoding text: numeric, alphanumeric, byte, and Kanji. Each mode encodes the text as a string of bits (1s and 0s), but each mode uses a different method for converting the text into bits. 
