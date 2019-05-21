@@ -20,8 +20,14 @@ Version = 2 to 6 will have 1 allignment pattern
 QR codes include error correction: when you encode the QR code, you also create some redundant data that will help a QR reader accurately read the code even if part of it is unreadable. There are four levels of error correction that you can choose from. The lowest is L, which allows the code to be read even if 7% of it is unreadable. After that is M, which provides 15% error correction, then Q, which provides 25%, and finally H, which provides 30%.
 
 L (Low = 7%) = 11
+
+
 M (Medium = 15%) = 10
+
+
 Q (Quartile = 25%) = 01
+
+
 H (High = 30%) = 10
 
 Low error correction will help in having maximum amount of data
