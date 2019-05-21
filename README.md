@@ -55,4 +55,9 @@ Worked with Python 3.x
 2. OpenCV
 3. sklearn - Cluster (K-Means)
 
+# To run:
+DetectQR.py is for decoding the QR code given.... This uses the class from DetectQR_class.py
+Similiarly GenerateQR.py is for encoding the QR code given.... This uses the class from GenerateQR_class.py
+
+
 
